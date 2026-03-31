@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Ankit Rout DevOps Engineer
 
 ### 🚀 About Me
-- 🛡️ **Associate DevOps Engineer** at **NetSmartz LLC** (CMMI Level 3), focusing on secure, scalable cloud infrastructure.
 - 🎓 **B.Tech CSE Student** at Amity University with a passion for **DevSecOps** and **MLOps**
-- [span_2](start_span)[span_3](start_span)📝 Published researcher in **Multimodal AI Frameworks** for mental health detection[span_2](end_span)[span_3](end_span).
+- 📝 Published researcher in **Multimodal AI Frameworks** for mental health detection.
 
 ### 🛠️ Tech Stack & Toolkit
 - **[span_4](start_span)Cloud:** Azure (VMs, Load Balancers), AWS[span_4](end_span).
