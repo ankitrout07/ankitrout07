@@ -2,7 +2,6 @@
 
 ### 🚀 About Me
 - 🎓 **B.Tech CSE Student** at Amity University with a passion for **DevSecOps** and **MLOps**
-- 📝 Published researcher in **Multimodal AI Frameworks** for mental health detection.
 
 ### 🛠️ Tech Stack & Toolkit
 - **Cloud:** Azure (VMs, Load Balancers), AWS.
