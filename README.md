@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./devops_mlops_banner.png" width="100%" alt="Banner" />
-
   # 🚀 Hi, I'm Ankit Rout
   ### DevOps | DevSecOps | MLOps Engineer
   
@@ -23,16 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitrout07&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrout07&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrout07&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
 
 ### 🛠️ Tech Stack & Toolkit
 
