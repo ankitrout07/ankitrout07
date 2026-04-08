@@ -1,7 +1,7 @@
 <div align="center">
    🚀 Hi, I'm Ankit Rout
   
-  ### DevOps | DevSecOps | MLOps Engineer
+  ### DevOps | SRE | MLOps Engineer
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitanupamrout07)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](mailto:ankitrout.netsmartz@gmail.com)
