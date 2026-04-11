@@ -31,22 +31,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-#### 🛡️ [DevSecOps Pipeline](https://github.com/ankitrouto7/DevSecOps-Security-CI-CD)
-> Fully automated CI/CD with integrated security gates, ensuring vulnerability-free deployments.
-- **Tech:** Jenkins, SonarQube, Trivy, Docker.
-
-#### 📈 [Multi-Tier K8s Infra](https://github.com/ankitrouto7/Multi-Tier-K8S-Infa)
-> High-availability cluster with auto-scaling for MERN applications, optimized for zero downtime.
-- **Tech:** Kubernetes (HPA), Nginx Ingress, Terraform.
-
-#### 🤖 [RAG Chatbot](https://github.com/ankitrouto7/RAG-Chatbot-with-Google-Docs-Integration)
-> Intelligent assistant integrated with Google Services via OAuth 2.0, leveraging RAG for accurate responses.
-- **Tech:** Python, OpenAI, Google Docs API.
-
----
-
 ### 📫 Connect with Me
 <div align="center">
   <a href="https://linkedin.com/in/ankitanupamrout07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
