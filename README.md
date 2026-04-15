@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="devops_mlops_banner.png" width="100%" alt="DevOps & MLOps Engineer" />
+
   <h1>🚀 Hi, I'm Ankit Rout</h1>
   <p><b>DevOps | SRE | MLOps Engineer</b></p>
   
