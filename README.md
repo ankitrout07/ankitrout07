@@ -13,7 +13,7 @@
 </div>
 
 ### 👨‍💻 About Me & Tech Stack
-|🧠 MLOps & AI CI/CD | ⚙️ Building resilient, scalable & secure cloud infrastructure.
+🧠 **MLOps & AI CI/CD** | ⚙️ Building resilient, scalable & secure cloud infrastructure.
 
 **Cloud & Orchestration:** <img src="https://img.shields.io/badge/Azure-0072C6?logo=microsoftazure&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Helm-0F1626?logo=helm&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Terraform-5835CC?logo=terraform&logoColor=white&style=flat-square" />  
 **CI/CD & Security:** <img src="https://img.shields.io/badge/Jenkins-2C5263?logo=jenkins&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/SonarQube-000000?logo=sonarqube&logoColor=4E9BCD&style=flat-square" />  
