@@ -24,12 +24,6 @@
 - **[FastAPI-Azure-Deployment](#):** CI/CD pipeline deploying FastAPI applications to Azure App Service.
 - **[Azure Secret Management](#):** Enterprise credential handling via Key Vault.
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitrout07&show_icons=true&theme=tokyonight&hide_border=true&title_color=0E75B6&icon_color=0E75B6" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrout07&layout=compact&theme=tokyonight&hide_border=true&title_color=0E75B6" height="150" />
-</div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ankitrout07&theme=tokyonight&no-bg=true&margin-w=4&row=1&column=6" height="100" />
 </div>
