@@ -16,7 +16,3 @@
 **CI/CD & Security:** <img src="https://img.shields.io/badge/Jenkins-2C5263?logo=jenkins&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/SonarQube-000000?logo=sonarqube&logoColor=4E9BCD&style=flat-square" />  
 **Automation & Observability:** <img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" />
 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitrout07&theme=tokyonight&no-bg=true&margin-w=4&row=1&column=6" height="100" />
-</div>
