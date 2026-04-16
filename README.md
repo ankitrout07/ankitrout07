@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="devops_mlops_banner.png" width="100%" alt="DevOps & MLOps Engineer" />
-
-  <h1>🚀 Hi, I'm Ankit Rout</h1>
+<h1>🚀 Hi, I'm Ankit Rout</h1>
   <p><b>DevOps | SRE | MLOps Engineer</b></p>
   
   <p>
@@ -19,16 +16,6 @@
 **CI/CD & Security:** <img src="https://img.shields.io/badge/Jenkins-2C5263?logo=jenkins&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/SonarQube-000000?logo=sonarqube&logoColor=4E9BCD&style=flat-square" />  
 **Automation & Observability:** <img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" />
 
-### 🚀 Key Projects
-- **[Automated-Jenkins](https://github.com/ankitrout07/Automated-Jenkins):** IaC configuration for reliable Jenkins setup on Azure.
-- **[FastAPI-Azure-Deployment](#):** CI/CD pipeline deploying FastAPI applications to Azure App Service.
-- **[Azure Secret Management](#):** Enterprise credential handling via Key Vault.
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitrout07&show_icons=true&theme=tokyonight&hide_border=true&title_color=0E75B6&icon_color=0E75B6" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrout07&layout=compact&theme=tokyonight&hide_border=true&title_color=0E75B6" height="150" />
-</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ankitrout07&theme=tokyonight&no-bg=true&margin-w=4&row=1&column=6" height="100" />
